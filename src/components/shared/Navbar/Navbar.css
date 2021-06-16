@@ -17,11 +17,20 @@
 .nav-icons{
     font-size: 18px;
 }
-
-
+.nav-link-active::after{
+    content: "";
+    display: block;
+    height: 1px;
+    width: 100%;
+    background-color:#151371;
+}
 
 @media (max-width: 991px){
     .twitter-icon{
         padding-left: .5rem!important;
+    }
+    .nav-logo img {
+        height: 38px;
+        width: 56px;
     }
 }
