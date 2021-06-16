@@ -2,3 +2,26 @@
     height: 55px;
     width: 70px;
 }
+.search-btn{
+    background-color: #141471;
+    color: #fff;
+    border-radius: 25px;
+    height: 38px;
+    width: 38px;
+}
+.search-btn:hover{
+    color: #ff00bb;
+    transition: all .3s ease;
+    cursor: pointer;
+}
+.nav-icons{
+    font-size: 18px;
+}
+
+
+
+@media (max-width: 991px){
+    .twitter-icon{
+        padding-left: .5rem!important;
+    }
+}
