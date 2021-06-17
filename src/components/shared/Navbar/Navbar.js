@@ -54,13 +54,13 @@ const Navbar = () => {
                         </ul>
                         <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
                             <li className="nav-item pe-3">
-                                <NavLink to="/home" exact activeClassName="nav-link-active" className="nav-link fw-bold">Home</NavLink>
+                                <NavLink to="/" exact activeClassName="nav-link-active" className="nav-link fw-bold">Home</NavLink>
                             </li>
                             <li className="nav-item pe-3">
-                                <NavLink to="/incubator" exact activeClassName="nav-link-active" className="nav-link fw-bold">Incubator</NavLink>
+                                <NavLink to="/incubator" activeClassName="nav-link-active" className="nav-link fw-bold">Incubator</NavLink>
                             </li>
                             <li className="nav-item pe-3">
-                                <NavLink to="/learn" exact activeClassName="nav-link-active" className="nav-link fw-bold">Learn</NavLink>
+                                <NavLink to="/learn" activeClassName="nav-link-active" className="nav-link fw-bold">Learn</NavLink>
                             </li>
                             <li className="nav-item">
                                 <div className="search-btn d-flex justify-content-center align-items-center">
