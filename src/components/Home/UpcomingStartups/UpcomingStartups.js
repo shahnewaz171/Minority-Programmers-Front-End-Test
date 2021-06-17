@@ -1,10 +1,23 @@
 import React from 'react';
+import { useEffect } from 'react';
+import { useState } from 'react';
 import UpcomingStartupsData from '../../../dummyData/startupsCompaniesData.json';
 import '../FeaturedStartups/FeaturedStartups.css';
 import UpcomingStartupsList from './UpcomingStartupsList';
 
 const UpcomingStartups = () => {
-    const startupsCompaniesData = UpcomingStartupsData;
+    const [startupsCompanies, setStartupsCompanies] = useState([]);
+    const [visible, setVisible] = useState(11);
+    const allStartupsCompanies = startupsCompanies.slice(0, visible);
+
+    useEffect(() => {
+        setStartupsCompanies(UpcomingStartupsData);
+    }, [])
+
+
+    const ViewMoreStartupsCompanies =  () => {
+        setVisible(previousLeague => previousLeague + 8);
+    };
     
     return (
         <div className="pb-5">
@@ -17,11 +30,11 @@ const UpcomingStartups = () => {
                         </p>
                     </div>
                     {
-                        startupsCompaniesData.map(startupsCompany => <UpcomingStartupsList startupsCompany={startupsCompany} key={startupsCompany.id}></UpcomingStartupsList>)
+                        allStartupsCompanies.map(startupsCompany => <UpcomingStartupsList startupsCompany={startupsCompany} key={startupsCompany.id}></UpcomingStartupsList>)
                     }
                 </div>
                 <div className="d-flex justify-content-center mt-4 pt-2">
-                    <button type="button" className="btn px-5 btn-outline-white">Load More</button>
+                    <button onClick={ViewMoreStartupsCompanies} type="button" className="btn px-5 btn-outline-white">Load More</button>
                 </div>
             </div>
         </div>
