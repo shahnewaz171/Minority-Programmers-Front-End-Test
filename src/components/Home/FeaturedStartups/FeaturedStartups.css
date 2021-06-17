@@ -1,3 +1,66 @@
 .featuredSection{
     background: linear-gradient(104.61deg, #FF00B8 2.65%, #FF655B 51.83%, #FFC700 100%);
 }
+.featured-item{
+    padding: 10px 10px;
+}
+.single-item{
+    padding: 20px;
+    background-color: white;
+    border-radius: 15px;
+    backdrop-filter: blur(64px);
+}
+.mangoswap-logo{
+    background-color: rgba(227, 227, 227, 0.6);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.mangoswap-logo img{
+    padding: 5px;
+    height: 88%;
+}
+.single-item p{
+    padding: 15px 0px;
+    font-size: 13px;
+    color: black;
+    font-weight: 500;
+}
+.single-item h6{
+    font-size: 17px;
+    color: #000;
+}
+.single-item span{
+    font-size: 12px;
+    font-weight: 500;
+    color: #000;
+}
+.single-item h5{
+    font-weight: 600;
+    font-size: 18px;
+}
+.progress-bar{
+    background: linear-gradient(104.61deg, #FF00B8 2.65%, #FF655B 51.83%, #FFC700 100%);
+    border-radius: 25.5px;
+}
+.btn-card{
+    background: #141471;
+    color: white;
+    border: 2px solid #141471;
+}
+.btn-card:hover{
+    color: #141471;
+    border: 2px solid #141471;
+    background: white;
+}
+
+.btn-outline-card:hover{
+    background: #141471;
+    color: white;
+}
+.btn-outline-card{
+    color: #141471;
+    border: 2px solid #141471;
+    background: white;
+}
