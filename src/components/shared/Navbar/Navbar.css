@@ -24,6 +24,9 @@
     width: 100%;
     background-color:#151371;
 }
+.nav-style{
+    box-shadow: #000 0 4px 4px -4px;
+}
 
 @media (max-width: 991px){
     .twitter-icon{

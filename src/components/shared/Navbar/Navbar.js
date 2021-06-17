@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { Link, NavLink } from 'react-router-dom';
 import Logo from "../../../images/logo/website-logo.png";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
@@ -7,9 +7,21 @@ import { faSearch } from '@fortawesome/free-solid-svg-icons';
 import './Navbar.css';
 
 const Navbar = () => {
+    const [navbarAnimation, setNavbarAnimation] = useState(false);
+
+    const changeBackground = () => {
+        if(window.scrollY >= 80) {
+            setNavbarAnimation(true);
+        }
+        else{
+            setNavbarAnimation(false);
+        }
+    }
+    window.addEventListener('scroll', changeBackground);
+
     return (
         <>
-            <nav className="navbar navbar-expand-lg navbar-light bg-white">
+            <nav className={navbarAnimation ? "sticky-md-top navbar navbar-expand-lg navbar-light bg-white nav-style" : "navbar navbar-expand-lg navbar-light bg-white"}>
                 <div className="container">
                     <Link to="#" className="navbar-brand nav-logo">
                         <img src={Logo} className="img-fluid" alt="logo" />
