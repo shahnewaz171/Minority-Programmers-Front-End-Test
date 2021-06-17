@@ -11,7 +11,7 @@ const FeaturedStartups = () => {
         infinite: true,
         speed: 1000,
         slidesToShow: 3,
-        // autoplay:true,
+        autoplay:true,
         slidesToScroll: 1,
         responsive: [
             {
@@ -40,11 +40,11 @@ const FeaturedStartups = () => {
             <div className="container d-md-flex">
                 <div className="col-12 col-md-3 text-white d-flex flex-column justify-content-center">
                     <div className="large-device-Featured">
-                        <h2 className="pt-4 mt-5 pb-2">Featured <br /> Startups </h2>
+                        <h2 className="pb-2">Featured <br /> Startups </h2>
                         <p>Invest in the next <br /> billion dollar <br /> company today</p>
                     </div>
                     <div className="small-device-Featured">
-                        <h2 className="pt-4 mt-5">Featured Startups </h2>
+                        <h2 className="pt-4">Featured Startups </h2>
                         <p>Invest in the next billion dollar company today</p>
                     </div>
                 </div>
@@ -71,7 +71,7 @@ const FeaturedStartups = () => {
                                     <div className="progress-bar w-75" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
                                 </div>
                                 <div className="d-flex justify-content-between">
-                                    <button className="btn p-2 btn-card">Fund Startup</button>
+                                    <button className="btn p-2 btn-outline-card">Fund Startup</button>
                                     <button className="btn p-2 btn-outline-card">Learn more</button>
                                 </div>
                             </div>
@@ -96,7 +96,7 @@ const FeaturedStartups = () => {
                                     <div className="progress-bar w-75" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
                                 </div>
                                 <div className="d-flex justify-content-between">
-                                    <button className="btn p-2 btn-card">Fund Startup</button>
+                                    <button className="btn p-2 btn-outline-card">Fund Startup</button>
                                     <button className="btn p-2 btn-outline-card">Learn more</button>
                                 </div>
                             </div>
@@ -121,7 +121,7 @@ const FeaturedStartups = () => {
                                     <div className="progress-bar w-75" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
                                 </div>
                                 <div className="d-flex justify-content-between">
-                                    <button className="btn p-2 btn-card">Fund Startup</button>
+                                    <button className="btn p-2 btn-outline-card">Fund Startup</button>
                                     <button className="btn p-2 btn-outline-card">Learn more</button>
                                 </div>
                             </div>
@@ -146,7 +146,7 @@ const FeaturedStartups = () => {
                                     <div className="progress-bar w-75" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
                                 </div>
                                 <div className="d-flex justify-content-between">
-                                    <button className="btn p-2 btn-card">Fund Startup</button>
+                                    <button className="btn p-2 btn-outline-card">Fund Startup</button>
                                     <button className="btn p-2 btn-outline-card">Learn more</button>
                                 </div>
                             </div>

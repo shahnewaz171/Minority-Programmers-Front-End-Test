@@ -1,6 +1,6 @@
 import React from 'react';
 import Navbar from '../shared/Navbar/Navbar';
-import FeaturedStartups from './FeaturedStartups/FeaturedStartups';
+import AllStartups from './AllStartups/AllStartups';
 import HeaderBanner from './HeaderBanner/HeaderBanner';
 
 const Home = () => {
@@ -8,7 +8,7 @@ const Home = () => {
         <>
             <Navbar />
             <HeaderBanner />
-            <FeaturedStartups />
+            <AllStartups />
         </>
     );
 };

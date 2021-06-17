@@ -1,6 +1,3 @@
-.featuredSection{
-    background: linear-gradient(104.61deg, #FF00B8 2.65%, #FF655B 51.83%, #FFC700 100%);
-}
 .featured-item{
     padding: 10px 10px;
 }
@@ -44,26 +41,18 @@
     background: linear-gradient(104.61deg, #FF00B8 2.65%, #FF655B 51.83%, #FFC700 100%);
     border-radius: 25.5px;
 }
-.btn-card{
-    background: #141471;
-    color: white;
-    border: 2px solid #141471;
-    font-size: 14px;
-}
-.btn-card:hover{
-    color: #141471;
-    border: 2px solid #141471;
-    background: white;
-}
+
 .btn-outline-card{
-    color: #141471;
+    color: #141471 !important;
     border: 2px solid #141471;
     background: white;
     font-size: 14px;
+    font-weight: 600;
+    line-height: 24px;
 }
 .btn-outline-card:hover{
     background: #141471;
-    color: white;
+    color: white !important;
 }
 .slick-prev:before,
 .slick-next:before{
