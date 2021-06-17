@@ -1,0 +1,26 @@
+.startup-header{
+    border-radius: 15px 15px 0px 0px;
+    padding: 14px 0px;
+}
+.arrow-icon{
+    background-color: darkgray;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 22px;
+    cursor: pointer;
+}
+.progress{
+    height: 0.7rem !important;
+}
+.startup-header .progress{
+    width: 80% !important;
+}
+.startup-header span{
+    font-size: 12px;
+}
+.fund-status{
+    font-size: 16px;
+}
