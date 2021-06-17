@@ -10,7 +10,9 @@ const StartupCardsBanner = () => {
         <div className="pb-5 pt-2">
             <div className="container">
                 <div className="row">
-                    {startupBannerData.map(bannerData => <StartupCardsBannerList bannerData={bannerData} key={bannerData.id} ></StartupCardsBannerList> )}
+                    {
+                        startupBannerData.map(bannerData => <StartupCardsBannerList bannerData={bannerData} key={bannerData.id} ></StartupCardsBannerList> )
+                    }
                 </div>
             </div>
         </div>
