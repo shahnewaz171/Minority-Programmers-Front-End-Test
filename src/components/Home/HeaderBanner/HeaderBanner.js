@@ -3,7 +3,7 @@ import './HeaderBanner.css';
 
 const HeaderBanner = () => {
     return (
-        <div className="mb-4 headerBanner">
+        <div className="headerBanner">
             <div className="h-100 d-flex align-items-center">
                 <div className="col-md-6"></div>
                 <div className="col-12 col-md-5 d-flex flex-column align-items-center justify-content-center">

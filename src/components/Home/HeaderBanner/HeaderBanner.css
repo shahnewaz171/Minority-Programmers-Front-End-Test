@@ -1,5 +1,5 @@
 .headerBanner{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.7)),url("../../../images/header-banner.png");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.2)),url("../../../images/header-banner.png");
     height: 380px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -9,6 +9,7 @@
     border-radius: 4px;
     border: none;
     color: white;
+    transition: all .3s ease;
 }
 .banner-btn:hover{
     background-image: linear-gradient(to left, #FF00B8 2.65%, #FF655B 51.83%, #FFC700 100%) !important;
