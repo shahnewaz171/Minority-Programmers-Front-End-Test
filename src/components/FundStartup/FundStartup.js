@@ -1,6 +1,7 @@
 import React from 'react';
 import FundSidebar from './FundSidebar/FundSidebar';
 import FundStartupHeader from './FundStartupHeader/FundStartupHeader';
+import FundStartupInfo from './FundStartupInfo/FundStartupInfo';
 
 const FundStartup = () => {
     return (
@@ -10,7 +11,9 @@ const FundStartup = () => {
                 <div className="col-md-4">
                     <FundSidebar />
                 </div>
-                <div className="col-md-6"></div>
+                <div className="col-md-8">
+                    <FundStartupInfo />
+                </div>
             </div>
         </div>
     );
