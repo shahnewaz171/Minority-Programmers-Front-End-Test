@@ -8,7 +8,7 @@ const StartupCardsBannerList = ({bannerData}) => {
     }
 
     return (
-        <div className="col-md-4">
+        <div className="col-md-4 mb-3">
             <div style={BannerImg} className="startupCardItem">
                 <div className="card-body">
                     <button type="button" className="btn btn-outline-white">{title}</button>
