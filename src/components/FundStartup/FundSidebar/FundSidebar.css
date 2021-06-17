@@ -1,0 +1,8 @@
+/* .fundSidebarStyle{
+    padding: 10px 35px;
+} */
+.fundSidebar-style p{
+    font-weight: 500 !important;
+    color: black;
+    font-size: 13px;
+}
