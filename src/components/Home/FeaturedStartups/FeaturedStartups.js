@@ -11,19 +11,19 @@ const FeaturedStartups = () => {
         infinite: true,
         speed: 1000,
         slidesToShow: 3,
-        // slidesToScroll: 1,
         // autoplay:true,
+        slidesToScroll: 1,
         responsive: [
             {
-                breakpoint: 992,
+                breakpoint: 991,
                 settings: {
-                    slidesToShow: 3,
+                    slidesToShow: 2,
                 }
             },
             {
                 breakpoint: 768,
                 settings: {
-                    slidesToShow: 2,
+                    slidesToShow: 1,
                 }
             },
             {
@@ -37,51 +37,121 @@ const FeaturedStartups = () => {
     
     return (
         <div className="pb-5 featuredSection">
-            <div className="container d-flex">
-                <div className="col-md-2">
-                    <h2>Welcome</h2>
+            <div className="container d-md-flex">
+                <div className="col-12 col-md-3 text-white d-flex flex-column justify-content-center">
+                    <div className="large-device-Featured">
+                        <h2 className="pt-4 mt-5 pb-2">Featured <br /> Startups </h2>
+                        <p>Invest in the next <br /> billion dollar <br /> company today</p>
+                    </div>
+                    <div className="small-device-Featured">
+                        <h2 className="pt-4 mt-5">Featured Startups </h2>
+                        <p>Invest in the next billion dollar company today</p>
+                    </div>
                 </div>
-                <div className="col-md-10">
+                
+                <div className="col-12 col-md-9">
                     <Slider {...settings}>
-                    <div className="featured-item">
-                        <div className="single-item">
-                            <div className="d-flex">
-                                <div className="mangoswap-logo">
-                                    <img src={MangoswapLogo} className="img-fluid" alt="mangoswapLogo" />
+                        <div className="featured-item">
+                            <div className="single-item">
+                                <div className="d-flex">
+                                    <div className="mangoswap-logo">
+                                        <img src={MangoswapLogo} className="img-fluid" alt="mangoswapLogo" />
+                                    </div>
+                                    <h3 className="ms-3">Mangoswap</h3>
                                 </div>
-                                <h3 className="ms-3">Mangoswap</h3>
-                            </div>
-                            <p>
-                                The mango swap coin is the future for crypto currency, it will allow user share and tansact over defi networks with less fees.
-                            </p>
-                            <div className="d-flex justify-content-between mb-1">
-                                <h6>Fund raise</h6>
-                                <span>50% complete</span>
-                            </div>
-                            <h5>$200,000/$400,000</h5>
-                            <div className="progress mt-3 mb-3">
-                                <div className="progress-bar w-75" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
-                            </div>
-                            <div className="d-flex justify-content-between">
-                                <button className="btn p-2 btn-card">Fund Startup</button>
-                                <button className="btn p-2 btn-outline-card">Learn more</button>
+                                <p>
+                                    The mango swap coin is the future for crypto currency, it will allow user share and tansact over defi networks with less fees.
+                                </p>
+                                <div className="d-flex justify-content-between mb-1">
+                                    <h6>Fund raise</h6>
+                                    <span>50% complete</span>
+                                </div>
+                                <h5>$200,000/$400,000</h5>
+                                <div className="progress mt-3 mb-3">
+                                    <div className="progress-bar w-75" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+                                </div>
+                                <div className="d-flex justify-content-between">
+                                    <button className="btn p-2 btn-card">Fund Startup</button>
+                                    <button className="btn p-2 btn-outline-card">Learn more</button>
+                                </div>
                             </div>
                         </div>
-                    </div>
-                    <div className="featured-item">
-                        <div className="single-item">
-                            <h2 className="reviewStyle">Shahnewaz</h2>
-                            <p className="reviewStyle" style={{fontWeight: '500', fontSize: '15px'}}>Hello</p>
+                        <div className="featured-item">
+                            <div className="single-item">
+                                <div className="d-flex">
+                                    <div className="mangoswap-logo">
+                                        <img src={MangoswapLogo} className="img-fluid" alt="mangoswapLogo" />
+                                    </div>
+                                    <h3 className="ms-3">Mangoswap</h3>
+                                </div>
+                                <p>
+                                    The mango swap coin is the future for crypto currency, it will allow user share and tansact over defi networks with less fees.
+                                </p>
+                                <div className="d-flex justify-content-between mb-1">
+                                    <h6>Fund raise</h6>
+                                    <span>50% complete</span>
+                                </div>
+                                <h5>$200,000/$400,000</h5>
+                                <div className="progress mt-3 mb-3">
+                                    <div className="progress-bar w-75" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+                                </div>
+                                <div className="d-flex justify-content-between">
+                                    <button className="btn p-2 btn-card">Fund Startup</button>
+                                    <button className="btn p-2 btn-outline-card">Learn more</button>
+                                </div>
+                            </div>
                         </div>
-                    </div>
-                    <div className="featured-item">
-                        <div className="single-item">
-                            <h2 className="reviewStyle">Shahnewaz</h2>
-                            <p className="reviewStyle" style={{fontWeight: '500', fontSize: '15px'}}>Hello</p>
+                        <div className="featured-item">
+                            <div className="single-item">
+                                <div className="d-flex">
+                                    <div className="mangoswap-logo">
+                                        <img src={MangoswapLogo} className="img-fluid" alt="mangoswapLogo" />
+                                    </div>
+                                    <h3 className="ms-3">Mangoswap</h3>
+                                </div>
+                                <p>
+                                    The mango swap coin is the future for crypto currency, it will allow user share and tansact over defi networks with less fees.
+                                </p>
+                                <div className="d-flex justify-content-between mb-1">
+                                    <h6>Fund raise</h6>
+                                    <span>50% complete</span>
+                                </div>
+                                <h5>$200,000/$400,000</h5>
+                                <div className="progress mt-3 mb-3">
+                                    <div className="progress-bar w-75" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+                                </div>
+                                <div className="d-flex justify-content-between">
+                                    <button className="btn p-2 btn-card">Fund Startup</button>
+                                    <button className="btn p-2 btn-outline-card">Learn more</button>
+                                </div>
+                            </div>
                         </div>
-                    </div>
-                    
-                        
+                        <div className="featured-item">
+                            <div className="single-item">
+                                <div className="d-flex">
+                                    <div className="mangoswap-logo">
+                                        <img src={MangoswapLogo} className="img-fluid" alt="mangoswapLogo" />
+                                    </div>
+                                    <h3 className="ms-3">Mangoswap</h3>
+                                </div>
+                                <p>
+                                    The mango swap coin is the future for crypto currency, it will allow user share and tansact over defi networks with less fees.
+                                </p>
+                                <div className="d-flex justify-content-between mb-1">
+                                    <h6>Fund raise</h6>
+                                    <span>50% complete</span>
+                                </div>
+                                <h5>$200,000/$400,000</h5>
+                                <div className="progress mt-3 mb-3">
+                                    <div className="progress-bar w-75" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+                                </div>
+                                <div className="d-flex justify-content-between">
+                                    <button className="btn p-2 btn-card">Fund Startup</button>
+                                    <button className="btn p-2 btn-outline-card">Learn more</button>
+                                </div>
+                            </div>
+                        </div>
+                   
                     </Slider>
                 </div>
             </div>

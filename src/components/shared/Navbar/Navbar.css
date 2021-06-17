@@ -1,6 +1,6 @@
-.nav-logo img{
-    height: 55px;
-    width: 70px;
+.nav-logo img {
+    height: 45px;
+    width: 60px;
 }
 .search-btn{
     background-color: #141471;
@@ -30,7 +30,7 @@
         padding-left: .5rem!important;
     }
     .nav-logo img {
-        height: 38px;
-        width: 56px;
+        height: 28px;
+        width: 48px;
     }
 }
