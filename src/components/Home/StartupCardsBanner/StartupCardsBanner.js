@@ -1,10 +1,10 @@
 import React from 'react';
-import dummyData from '../../../dummyData/startupBannerData.json';
+import startupBannerInfo from '../../../dummyData/startupBannerData.json';
 import StartupCardsBannerList from './StartupCardsBannerList';
 import './StartupCardsBanner.css';
 
 const StartupCardsBanner = () => {
-    const startupBannerData  = dummyData;
+    const startupBannerData  = startupBannerInfo;
 
     return (
         <div className="pb-5 pt-2">
