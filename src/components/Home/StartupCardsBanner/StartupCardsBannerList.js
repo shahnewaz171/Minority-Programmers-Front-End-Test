@@ -2,7 +2,6 @@ import React from 'react';
 
 const StartupCardsBannerList = ({bannerData}) => {
     const {title, image} = bannerData;
-    console.log(bannerData);
 
     const BannerImg = {
         backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.6)),url(${image})`
