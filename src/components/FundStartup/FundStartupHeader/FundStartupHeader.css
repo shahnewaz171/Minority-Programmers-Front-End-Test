@@ -1,6 +1,8 @@
 .startup-header{
     border-radius: 15px 15px 0px 0px;
     padding: 14px 0px;
+}
+.row{
     --bs-gutter-x: 0px !important;
 }
 .arrow-icon{

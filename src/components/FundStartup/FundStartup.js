@@ -10,6 +10,7 @@ const FundStartup = () => {
                 <div className="col-md-4">
                     <FundSidebar />
                 </div>
+                <div className="col-md-6"></div>
             </div>
         </div>
     );

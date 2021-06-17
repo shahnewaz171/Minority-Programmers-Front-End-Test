@@ -13,15 +13,15 @@ const FundSidebar = () => {
                 <div className="pb-3">
                     <p className="mb-1">Website</p>
                     <div className="d-flex">
-                        <a href="https://minorityprogrammers.com" className="text-decoration-none fw-bold">mangoswap.com</a>
+                        <a href="https://minorityprogrammers.com" className="text-decoration-none fw-bold" target="_blank" rel="noreferrer">mangoswap.com</a>
                         <div className="ms-3">
-                            <a href="https://twitter.com/minorityprogram">
+                            <a href="https://twitter.com/minorityprogram" target="_blank" rel="noreferrer">
                                 <FontAwesomeIcon icon={faTwitter} />
                             </a>
-                            <a href="https://www.linkedin.com/company/minority-programmers/" className="ms-2">
+                            <a href="https://www.linkedin.com/company/minority-programmers/" className="ms-2" target="_blank" rel="noreferrer">
                                 <FontAwesomeIcon icon={faLinkedinIn} />
                             </a>
-                            <a href="https://www.facebook.com/MinorityProgrammers" className="ms-2">
+                            <a href="https://www.facebook.com/MinorityProgrammers" className="ms-2" target="_blank" rel="noreferrer">
                                 <FontAwesomeIcon icon={faFacebookF} />
                             </a>
                         </div>
