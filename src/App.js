@@ -4,6 +4,7 @@ import Home from "./components/Home/Home";
 import FundStartup from "./components/FundStartup/FundStartup";
 import LearnPage from './components/LearnPage/LearnPage';
 import Navbar from './components/shared/Navbar/Navbar';
+import Dashboard from './components/Dashboard/Dashboard';
 
 function App() {
   return (
@@ -17,12 +18,11 @@ function App() {
             <Navbar />
             <FundStartup />
           </Route>
-          <Route path="/incubator">
-            <Navbar />
-            <FundStartup />
-          </Route>
           <Route path="/startup/:startupID">
             <Home />
+          </Route>
+          <Route path="/course/:courseID">
+            <Dashboard />
           </Route>
           <Route path="/learn">
             <LearnPage />

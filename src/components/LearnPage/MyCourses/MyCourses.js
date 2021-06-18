@@ -5,6 +5,7 @@ import "slick-carousel/slick/slick-theme.css";
 import CoursesData from '../../../dummyData/myCoursesData.json';
 import './MyCourses.css';
 import settings from '../../Home/FeaturedStartups/settings';
+import { Link } from 'react-router-dom';
 
 const MyCourses = () => {
     const [myCourses, setMyCourse] = useState([]);
@@ -27,9 +28,11 @@ const MyCourses = () => {
                             </div>
                             <p>{course.description}</p>
                             <div className="text-center mb-4">
-                                <button className="btn px-5 banner-btn mt-3">
-                                    Learn
-                                </button>
+                               <Link to={`/course/${course.id}`}>
+                                    <button className="btn px-5 banner-btn mt-3">
+                                        Learn
+                                    </button>
+                               </Link>
                             </div>
                             <div className="module-rate">
                                 <span>{course.moduleRate}</span>

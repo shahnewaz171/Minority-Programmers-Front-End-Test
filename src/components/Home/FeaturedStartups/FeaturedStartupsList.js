@@ -26,7 +26,9 @@ const FeaturedStartupsList = ({startupsCompany}) => {
                     <Link to={`/startup/${id}`}>
                         <button className="btn p-2 btn-outline-card">Fund Startup</button>
                     </Link>
-                    <button className="btn p-2 btn-outline-card">Learn more</button>
+                    <Link to="/learn">
+                        <button className="btn p-2 btn-outline-card">Learn more</button>
+                    </Link>
                 </div>
             </div>
         </div>

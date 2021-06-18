@@ -3,9 +3,9 @@ import { useForm } from "react-hook-form";
 import { Link } from 'react-router-dom';
 import FeaturedCourses from '../FeaturedCourses/FeaturedCourses';
 import MyCourses from '../MyCourses/MyCourses';
-import './Courses.css';
+import './CourseCategories.css';
 
-const Courses = () => {
+const CourseCategories = () => {
     const { register, handleSubmit, formState: { errors } } = useForm();
     const onSubmit = data => console.log(data);
 
@@ -61,4 +61,4 @@ const Courses = () => {
     );
 };
 
-export default Courses;
+export default CourseCategories;

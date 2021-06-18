@@ -1,6 +1,6 @@
 import React from 'react';
 import Navbar from '../shared/Navbar/Navbar';
-import Courses from './Courses/Courses';
+import CourseCategories from './CourseCategories/CourseCategories';
 import LearnBanner from './LearnBanner/LearnBanner';
 
 const LearnPage = () => {
@@ -8,7 +8,7 @@ const LearnPage = () => {
         <>
             <Navbar />
             <LearnBanner />
-            <Courses />
+            <CourseCategories />
         </>
     );
 };

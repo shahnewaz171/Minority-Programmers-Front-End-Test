@@ -12,7 +12,6 @@ const FeaturedCourses = () => {
     useEffect(() => {
         setFeaturedCourse(featuredCoursesData);
     }, [])
-    console.log(featuredCourses);
 
     return (
         <div className="row">

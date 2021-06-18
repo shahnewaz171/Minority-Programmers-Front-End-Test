@@ -1,7 +1,6 @@
 .courses-items {
     padding-top: 15px;
     border: 1px solid #979797;
-    cursor: pointer;
     background: linear-gradient(110.62deg,rgba(255, 255, 255, 0.25) 6.39%, rgba(255, 255, 255, 0) 53.34%);
     border-radius: 15px;
 }
