@@ -1,11 +1,15 @@
 import React from 'react';
+import Navbar from '../shared/Navbar/Navbar';
 import Courses from './Courses/Courses';
+import LearnBanner from './LearnBanner/LearnBanner';
 
 const LearnPage = () => {
     return (
-        <div>
+        <>
+            <Navbar />
+            <LearnBanner />
             <Courses />
-        </div>
+        </>
     );
 };
 

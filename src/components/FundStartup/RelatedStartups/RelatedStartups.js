@@ -17,7 +17,7 @@ const RelatedStartups = () => {
         infinite: true,
         speed: 1000,
         slidesToShow: 3,
-        // autoplay:true,
+        autoplay:true,
         slidesToScroll: 1,
         responsive: [
             {
