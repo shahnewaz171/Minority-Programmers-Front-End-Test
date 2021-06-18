@@ -3,7 +3,7 @@ import './FundStartupInfo.css';
 
 const FundStartupInfo = () => {
     return (
-        <div className="bg-white ms-3 px-5">
+        <div className="bg-white ms-md-3 px-5">
             <div className="pt-4">
                 <h4 className="pb-1">About startup</h4>
                 <p>
