@@ -2,21 +2,22 @@ import React, { useEffect, useState } from 'react';
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import CoursesData from '../../../dummyData/myCoursesData.json';
-import './MyCourses.css';
 import settings from '../../Home/FeaturedStartups/settings';
+import featuredCoursesData from '../../../dummyData/featuredCourses.json';
+import './FeaturedCourses.css';
 
-const MyCourses = () => {
-    const [myCourses, setMyCourse] = useState([]);
+const FeaturedCourses = () => {
+    const [featuredCourses, setFeaturedCourse] = useState([]);
 
     useEffect(() => {
-        setMyCourse(CoursesData);
+        setFeaturedCourse(featuredCoursesData);
     }, [])
+    console.log(featuredCourses);
 
     return (
         <div className="row">
             <Slider {...settings}>
-                {myCourses && myCourses.map(course => (
+                {featuredCourses && featuredCourses.map(course => (
                     <div key={course.id}>
                         <div className="courses-items px-3 mb-4 mx-2">
                             <div className="earn-rate ms-auto">
@@ -46,4 +47,4 @@ const MyCourses = () => {
     );
 };
 
-export default MyCourses;
+export default FeaturedCourses;

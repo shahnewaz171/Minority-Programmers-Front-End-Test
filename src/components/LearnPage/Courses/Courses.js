@@ -1,6 +1,7 @@
 import React from 'react';
 import { useForm } from "react-hook-form";
 import { Link } from 'react-router-dom';
+import FeaturedCourses from '../FeaturedCourses/FeaturedCourses';
 import MyCourses from '../MyCourses/MyCourses';
 import './Courses.css';
 
@@ -35,12 +36,25 @@ const Courses = () => {
                         </div>
                     </div>
                     <div className="col-md-3"></div>
-                    <div className="my-courses d-flex pt-2">
-                        <h1>My Courses</h1>
+                    <div className="pt-2">
+                        <div className="my-courses d-flex">
+                            <h1>My Courses</h1>
+                        </div>
+                        <div className="mt-3 courses-info">
+                            <MyCourses />
+                        </div>
                     </div>
-                    <div className="mt-3 courses-info">
-                        <MyCourses />
+                    <div className="mt-5 pt-3">
+                        <div className="featured-courses d-flex pt-2">
+                            <h1>Featured Courses</h1>
+                        </div>
+                        <div className="mt-3 courses-info">
+                            <FeaturedCourses />
+                        </div>
                     </div>
+                </div>
+                <div className="text-center mt-5 mb-3">
+                    <button type="button" className="btn px-5 btn-outline-white">Load More</button>
                 </div>
             </div>
         </div>
