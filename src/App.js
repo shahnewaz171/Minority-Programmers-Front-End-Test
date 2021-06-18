@@ -13,6 +13,10 @@ function App() {
           <Route exact path="/">
               <Home />
           </Route>
+          <Route path="/startup/:startupID">
+            <Navbar />
+            <FundStartup />
+          </Route>
           <Route path="/incubator">
             <Navbar />
             <FundStartup />

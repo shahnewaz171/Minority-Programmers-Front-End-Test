@@ -1,7 +1,8 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 const UpcomingStartupsList = ({startupsCompany}) => {
-    const {name, logo, description, status, fundAverage, amount} = startupsCompany;
+    const {name, logo, description, status, fundAverage, amount, id} = startupsCompany;
 
     return (
         <div className="col-lg-3 col-md-6 px-0">
@@ -23,7 +24,9 @@ const UpcomingStartupsList = ({startupsCompany}) => {
                         <div className="progress-bar w-50" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
                      <div className="d-flex justify-content-between">
-                        <button className="btn p-2 btn-outline-card">Fund Startup</button>
+                        <Link to={`/startup/${id}`}>
+                            <button className="btn p-2 btn-outline-card">Fund Startup</button>
+                        </Link>
                         <button className="btn p-2 btn-outline-card">Learn more</button>
                     </div>
                 </div>

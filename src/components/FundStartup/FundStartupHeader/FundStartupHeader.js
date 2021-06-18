@@ -1,16 +1,20 @@
 import React from 'react';
-import logo from '../../../images/mangoswap-stack-with-corwn.png';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faArrowLeft } from '@fortawesome/free-solid-svg-icons';
 import './FundStartupHeader.css';
+import { Link } from 'react-router-dom';
 
-const FundStartupHeader = () => {
+const FundStartupHeader = ({fundStartupInfo}) => {
+    const {name, logo, status, fundAverage, amount} = fundStartupInfo;
+
     return (
         <div className="mt-4 startup-header bg-white">
             <div className="row align-items-center">
                 <div className="col-md-1 d-md-flex justify-content-center align-items-center startupHeader-item">
                     <div className="arrow-icon">
-                        <FontAwesomeIcon icon={faArrowLeft} />
+                        <Link to="/">
+                            <FontAwesomeIcon icon={faArrowLeft} style={{color: '#000'}} />
+                        </Link>
                     </div>
                 </div>
                 <div className="col-md-2 startupHeader-item">
@@ -18,16 +22,16 @@ const FundStartupHeader = () => {
                         <div className="mangoswap-logo">
                             <img src={logo} className="img-fluid" alt="mangoswapLogo" style={{height: "75%"}} />
                         </div>
-                        <h4 className="ms-1 mb-0 fw-bold">Mangoswap</h4>
+                        <h4 className="ms-1 mb-0 fw-bold">{name}</h4>
                     </div>
                 </div>
                 <div className="col-md-1"></div>
                 <div className="col-md-3 startupHeader-item">
                     <div className="d-flex">
-                        <h6 className="fund-status">Funds raised</h6>
-                        <span className="ms-4">50% complete</span>
+                        <h6 className="fund-status">{status}</h6>
+                        <span className="ms-4">{fundAverage}</span>
                     </div>
-                    <h6 className="fw-bold">$200,000/$400,000</h6>
+                    <h6 className="fw-bold">{amount}</h6>
                 </div>
                 <div className="col-md-3 startupHeader-item">
                     <div className="progress ms-md-5">

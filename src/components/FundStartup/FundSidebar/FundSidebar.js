@@ -1,10 +1,11 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faUser } from '@fortawesome/free-regular-svg-icons';
 import { faFacebookF, faLinkedinIn, faTwitter } from '@fortawesome/free-brands-svg-icons';
 import './FundSidebar.css';
 
-const FundSidebar = () => {
+const FundSidebar = ({fundStartupInfo}) => {
+    const { teamInfo } = fundStartupInfo;
+
     return (
         <div className="bg-white fundSidebar-style">
             <h6 className="fw-bold pt-3 pb-1 px-4">Founded 17th May, 2015</h6>
@@ -39,43 +40,18 @@ const FundSidebar = () => {
             </div>
             <hr />
             <div className="px-4">
-                <h4>Meet the team</h4>
-                <div className="pt-3 d-flex">
-                    <div className="user-avater">
-                        <FontAwesomeIcon icon={faUser} />
+                <h4 className="pb-1">Meet the team</h4>
+                {teamInfo && teamInfo.map(member => (
+                    <div key={member.id} className="pt-2 d-flex">
+                        <div className="user-avatar">
+                            <img src={member.image} className="img-fluid" alt="member" />
+                        </div>
+                        <div className="ms-3">
+                            <h6 className="fw-bold">{member.name}</h6>
+                            <p>{member.designation}</p>
+                        </div>
                     </div>
-                    <div className="ms-3">
-                        <h6 className="fw-bold">Edmund Kitan</h6>
-                        <p>Founder</p>
-                    </div>
-                </div>
-                <div className="pt-2 d-flex">
-                    <div className="user-avater">
-                        <FontAwesomeIcon icon={faUser} />
-                    </div>
-                    <div className="ms-3">
-                        <h6 className="fw-bold">Olarenwaju Cesar</h6>
-                        <p>Co-Founder</p>
-                    </div>
-                </div>
-                <div className="pt-2 d-flex">
-                    <div className="user-avater">
-                        <FontAwesomeIcon icon={faUser} />
-                    </div>
-                    <div className="ms-3">
-                        <h6 className="fw-bold">Uzo Amanda</h6>
-                        <p>Head of Growth</p>
-                    </div>
-                </div>
-                <div className="pt-2 d-flex">
-                    <div className="user-avater">
-                        <FontAwesomeIcon icon={faUser} />
-                    </div>
-                    <div className="ms-3">
-                        <h6 className="fw-bold">Donald Duke</h6>
-                        <p>Head of Product</p>
-                    </div>
-                </div>
+                ))}
             </div>
             <hr />
             <div className="px-4 sidebar-tags pb-3">

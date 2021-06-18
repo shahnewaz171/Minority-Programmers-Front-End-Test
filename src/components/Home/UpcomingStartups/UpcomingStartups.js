@@ -19,6 +19,7 @@ const UpcomingStartups = () => {
         setVisible(previousLeague => previousLeague + 8);
     };
     
+    
     return (
         <div className="pb-5">
             <div className="container">

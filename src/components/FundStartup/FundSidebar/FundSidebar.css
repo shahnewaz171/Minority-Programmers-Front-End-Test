@@ -3,7 +3,7 @@
     color: black;
     font-size: 13px;
 }
-.user-avater{
+.user-avatar{
     background-color: #C4C4C4;
     height: 40px;
     width: 40px;
@@ -14,7 +14,7 @@
     cursor: pointer;
     transition: all .3s;
 }
-.user-avater:hover{
+.user-avatar:hover{
     background-color: #afafaf;
 }
 .sidebar-tags button{

@@ -7,6 +7,32 @@
         "status": "Fund raise",
         "fundAverage": "50% complete",
         "amount": "$200,000/$400,000",
+        "teamInfo": [
+            {
+                "id": "m1",
+                "name": "Edmund Kitan", 
+                "designation": "Founder",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m2", 
+                "name": "Olarenwaju Cesar", 
+                "designation": "Co-Founder",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m3", 
+                "name": "Uzo Amanda", 
+                "designation": "Head of Growth",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m4", 
+                "name": "Donald Duke", 
+                "designation": "Head of Product",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            }
+        ],
         "aboutInfo": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
         "visionInfo": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation v"
     }, {
@@ -17,6 +43,32 @@
         "status": "Fund raise",
         "fundAverage": "50% complete",
         "amount": "$200,000/$400,000",
+        "teamInfo": [
+            {
+                "id": "m1",
+                "name": "Edmund Kitan", 
+                "designation": "Founder",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m2", 
+                "name": "Olarenwaju Cesar", 
+                "designation": "Co-Founder",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m3", 
+                "name": "Uzo Amanda", 
+                "designation": "Head of Growth",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m4", 
+                "name": "Donald Duke", 
+                "designation": "Head of Product",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            }
+        ],
         "aboutInfo": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
         "visionInfo": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation v"
     }, {
@@ -27,6 +79,32 @@
         "status": "Fund raise",
         "fundAverage": "50% complete",
         "amount": "$200,000/$400,000",
+        "teamInfo": [
+            {
+                "id": "m1",
+                "name": "Edmund Kitan", 
+                "designation": "Founder",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m2", 
+                "name": "Olarenwaju Cesar", 
+                "designation": "Co-Founder",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m3", 
+                "name": "Uzo Amanda", 
+                "designation": "Head of Growth",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m4", 
+                "name": "Donald Duke", 
+                "designation": "Head of Product",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            }
+        ],
         "aboutInfo": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
         "visionInfo": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation v"
     }, {
@@ -37,6 +115,32 @@
         "status": "Fund raise",
         "fundAverage": "50% complete",
         "amount": "$200,000/$400,000",
+        "teamInfo": [
+            {
+                "id": "m1",
+                "name": "Edmund Kitan", 
+                "designation": "Founder",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m2", 
+                "name": "Olarenwaju Cesar", 
+                "designation": "Co-Founder",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m3", 
+                "name": "Uzo Amanda", 
+                "designation": "Head of Growth",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m4", 
+                "name": "Donald Duke", 
+                "designation": "Head of Product",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            }
+        ],
         "aboutInfo": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
         "visionInfo": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation v"
     }, {
@@ -47,6 +151,32 @@
         "status": "Fund raise",
         "fundAverage": "50% complete",
         "amount": "$200,000/$400,000",
+        "teamInfo": [
+            {
+                "id": "m1",
+                "name": "Edmund Kitan", 
+                "designation": "Founder",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m2", 
+                "name": "Olarenwaju Cesar", 
+                "designation": "Co-Founder",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m3", 
+                "name": "Uzo Amanda", 
+                "designation": "Head of Growth",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m4", 
+                "name": "Donald Duke", 
+                "designation": "Head of Product",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            }
+        ],
         "aboutInfo": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
         "visionInfo": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation v"
     }, {
@@ -57,6 +187,32 @@
         "status": "Fund raise",
         "fundAverage": "50% complete",
         "amount": "$200,000/$400,000",
+        "teamInfo": [
+            {
+                "id": "m1",
+                "name": "Edmund Kitan", 
+                "designation": "Founder",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m2", 
+                "name": "Olarenwaju Cesar", 
+                "designation": "Co-Founder",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m3", 
+                "name": "Uzo Amanda", 
+                "designation": "Head of Growth",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m4", 
+                "name": "Donald Duke", 
+                "designation": "Head of Product",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            }
+        ],
         "aboutInfo": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
         "visionInfo": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation v"
     },{
@@ -67,6 +223,32 @@
         "status": "Fund raise",
         "fundAverage": "50% complete",
         "amount": "$200,000/$400,000",
+        "teamInfo": [
+            {
+                "id": "m1",
+                "name": "Edmund Kitan", 
+                "designation": "Founder",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m2", 
+                "name": "Olarenwaju Cesar", 
+                "designation": "Co-Founder",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m3", 
+                "name": "Uzo Amanda", 
+                "designation": "Head of Growth",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m4", 
+                "name": "Donald Duke", 
+                "designation": "Head of Product",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            }
+        ],
         "aboutInfo": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
         "visionInfo": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation v"
     }, {
@@ -77,6 +259,32 @@
         "status": "Fund raise",
         "fundAverage": "50% complete",
         "amount": "$200,000/$400,000",
+        "teamInfo": [
+            {
+                "id": "m1",
+                "name": "Edmund Kitan", 
+                "designation": "Founder",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m2", 
+                "name": "Olarenwaju Cesar", 
+                "designation": "Co-Founder",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m3", 
+                "name": "Uzo Amanda", 
+                "designation": "Head of Growth",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m4", 
+                "name": "Donald Duke", 
+                "designation": "Head of Product",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            }
+        ],
         "aboutInfo": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
         "visionInfo": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation v"
     }, {
@@ -87,6 +295,32 @@
         "status": "Fund raise",
         "fundAverage": "50% complete",
         "amount": "$200,000/$400,000",
+        "teamInfo": [
+            {
+                "id": "m1",
+                "name": "Edmund Kitan", 
+                "designation": "Founder",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m2", 
+                "name": "Olarenwaju Cesar", 
+                "designation": "Co-Founder",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m3", 
+                "name": "Uzo Amanda", 
+                "designation": "Head of Growth",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m4", 
+                "name": "Donald Duke", 
+                "designation": "Head of Product",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            }
+        ],
         "aboutInfo": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
         "visionInfo": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation v"
     }, {
@@ -97,6 +331,32 @@
         "status": "Fund raise",
         "fundAverage": "50% complete",
         "amount": "$200,000/$400,000",
+        "teamInfo": [
+            {
+                "id": "m1",
+                "name": "Edmund Kitan", 
+                "designation": "Founder",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m2", 
+                "name": "Olarenwaju Cesar", 
+                "designation": "Co-Founder",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m3", 
+                "name": "Uzo Amanda", 
+                "designation": "Head of Growth",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m4", 
+                "name": "Donald Duke", 
+                "designation": "Head of Product",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            }
+        ],
         "aboutInfo": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
         "visionInfo": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation v"
     }, {
@@ -107,6 +367,32 @@
         "status": "Fund raise",
         "fundAverage": "50% complete",
         "amount": "$200,000/$400,000",
+        "teamInfo": [
+            {
+                "id": "m1",
+                "name": "Edmund Kitan", 
+                "designation": "Founder",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m2", 
+                "name": "Olarenwaju Cesar", 
+                "designation": "Co-Founder",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m3", 
+                "name": "Uzo Amanda", 
+                "designation": "Head of Growth",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m4", 
+                "name": "Donald Duke", 
+                "designation": "Head of Product",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            }
+        ],
         "aboutInfo": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
         "visionInfo": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation v"
     }, {
@@ -117,6 +403,32 @@
         "status": "Fund raise",
         "fundAverage": "50% complete",
         "amount": "$200,000/$400,000",
+        "teamInfo": [
+            {
+                "id": "m1",
+                "name": "Edmund Kitan", 
+                "designation": "Founder",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m2", 
+                "name": "Olarenwaju Cesar", 
+                "designation": "Co-Founder",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m3", 
+                "name": "Uzo Amanda", 
+                "designation": "Head of Growth",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m4", 
+                "name": "Donald Duke", 
+                "designation": "Head of Product",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            }
+        ],
         "aboutInfo": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
         "visionInfo": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation v"
     }, {
@@ -127,6 +439,32 @@
         "status": "Fund raise",
         "fundAverage": "50% complete",
         "amount": "$200,000/$400,000",
+        "teamInfo": [
+            {
+                "id": "m1",
+                "name": "Edmund Kitan", 
+                "designation": "Founder",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m2", 
+                "name": "Olarenwaju Cesar", 
+                "designation": "Co-Founder",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m3", 
+                "name": "Uzo Amanda", 
+                "designation": "Head of Growth",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m4", 
+                "name": "Donald Duke", 
+                "designation": "Head of Product",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            }
+        ],
         "aboutInfo": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
         "visionInfo": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation v"
     }, {
@@ -137,6 +475,32 @@
         "status": "Fund raise",
         "fundAverage": "50% complete",
         "amount": "$200,000/$400,000",
+        "teamInfo": [
+            {
+                "id": "m1",
+                "name": "Edmund Kitan", 
+                "designation": "Founder",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m2", 
+                "name": "Olarenwaju Cesar", 
+                "designation": "Co-Founder",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m3", 
+                "name": "Uzo Amanda", 
+                "designation": "Head of Growth",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m4", 
+                "name": "Donald Duke", 
+                "designation": "Head of Product",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            }
+        ],
         "aboutInfo": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
         "visionInfo": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation v"
     }, {
@@ -147,6 +511,32 @@
         "status": "Fund raise",
         "fundAverage": "50% complete",
         "amount": "$200,000/$400,000",
+        "teamInfo": [
+            {
+                "id": "m1",
+                "name": "Edmund Kitan", 
+                "designation": "Founder",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m2", 
+                "name": "Olarenwaju Cesar", 
+                "designation": "Co-Founder",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m3", 
+                "name": "Uzo Amanda", 
+                "designation": "Head of Growth",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m4", 
+                "name": "Donald Duke", 
+                "designation": "Head of Product",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            }
+        ],
         "aboutInfo": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
         "visionInfo": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation v"
     }, {
@@ -157,6 +547,32 @@
         "status": "Fund raise",
         "fundAverage": "50% complete",
         "amount": "$200,000/$400,000",
+        "teamInfo": [
+            {
+                "id": "m1",
+                "name": "Edmund Kitan", 
+                "designation": "Founder",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m2", 
+                "name": "Olarenwaju Cesar", 
+                "designation": "Co-Founder",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m3", 
+                "name": "Uzo Amanda", 
+                "designation": "Head of Growth",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m4", 
+                "name": "Donald Duke", 
+                "designation": "Head of Product",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            }
+        ],
         "aboutInfo": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
         "visionInfo": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation v"
     }, {
@@ -167,6 +583,32 @@
         "status": "Fund raise",
         "fundAverage": "50% complete",
         "amount": "$200,000/$400,000",
+        "teamInfo": [
+            {
+                "id": "m1",
+                "name": "Edmund Kitan", 
+                "designation": "Founder",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m2", 
+                "name": "Olarenwaju Cesar", 
+                "designation": "Co-Founder",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m3", 
+                "name": "Uzo Amanda", 
+                "designation": "Head of Growth",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m4", 
+                "name": "Donald Duke", 
+                "designation": "Head of Product",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            }
+        ],
         "aboutInfo": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
         "visionInfo": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation v"
     }, {
@@ -177,6 +619,32 @@
         "status": "Fund raise",
         "fundAverage": "50% complete",
         "amount": "$200,000/$400,000",
+        "teamInfo": [
+            {
+                "id": "m1",
+                "name": "Edmund Kitan", 
+                "designation": "Founder",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m2", 
+                "name": "Olarenwaju Cesar", 
+                "designation": "Co-Founder",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m3", 
+                "name": "Uzo Amanda", 
+                "designation": "Head of Growth",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m4", 
+                "name": "Donald Duke", 
+                "designation": "Head of Product",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            }
+        ],
         "aboutInfo": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
         "visionInfo": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation v"
     }, {
@@ -187,6 +655,32 @@
         "status": "Fund raise",
         "fundAverage": "50% complete",
         "amount": "$200,000/$400,000",
+        "teamInfo": [
+            {
+                "id": "m1",
+                "name": "Edmund Kitan", 
+                "designation": "Founder",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m2", 
+                "name": "Olarenwaju Cesar", 
+                "designation": "Co-Founder",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m3", 
+                "name": "Uzo Amanda", 
+                "designation": "Head of Growth",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m4", 
+                "name": "Donald Duke", 
+                "designation": "Head of Product",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            }
+        ],
         "aboutInfo": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
         "visionInfo": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation v"
     }, {
@@ -197,6 +691,32 @@
         "status": "Fund raise",
         "fundAverage": "50% complete",
         "amount": "$200,000/$400,000",
+        "teamInfo": [
+            {
+                "id": "m1",
+                "name": "Edmund Kitan", 
+                "designation": "Founder",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m2", 
+                "name": "Olarenwaju Cesar", 
+                "designation": "Co-Founder",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m3", 
+                "name": "Uzo Amanda", 
+                "designation": "Head of Growth",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m4", 
+                "name": "Donald Duke", 
+                "designation": "Head of Product",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            }
+        ],
         "aboutInfo": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
         "visionInfo": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation v"
     }, {
@@ -207,6 +727,32 @@
         "status": "Fund raise",
         "fundAverage": "50% complete",
         "amount": "$200,000/$400,000",
+        "teamInfo": [
+            {
+                "id": "m1",
+                "name": "Edmund Kitan", 
+                "designation": "Founder",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m2", 
+                "name": "Olarenwaju Cesar", 
+                "designation": "Co-Founder",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m3", 
+                "name": "Uzo Amanda", 
+                "designation": "Head of Growth",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m4", 
+                "name": "Donald Duke", 
+                "designation": "Head of Product",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            }
+        ],
         "aboutInfo": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
         "visionInfo": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation v"
     }, {
@@ -217,6 +763,32 @@
         "status": "Fund raise",
         "fundAverage": "50% complete",
         "amount": "$200,000/$400,000",
+        "teamInfo": [
+            {
+                "id": "m1",
+                "name": "Edmund Kitan", 
+                "designation": "Founder",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m2", 
+                "name": "Olarenwaju Cesar", 
+                "designation": "Co-Founder",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m3", 
+                "name": "Uzo Amanda", 
+                "designation": "Head of Growth",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m4", 
+                "name": "Donald Duke", 
+                "designation": "Head of Product",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            }
+        ],
         "aboutInfo": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
         "visionInfo": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation v"
     }, {
@@ -227,6 +799,32 @@
         "status": "Fund raise",
         "fundAverage": "50% complete",
         "amount": "$200,000/$400,000",
+        "teamInfo": [
+            {
+                "id": "m1",
+                "name": "Edmund Kitan", 
+                "designation": "Founder",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m2", 
+                "name": "Olarenwaju Cesar", 
+                "designation": "Co-Founder",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m3", 
+                "name": "Uzo Amanda", 
+                "designation": "Head of Growth",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m4", 
+                "name": "Donald Duke", 
+                "designation": "Head of Product",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            }
+        ],
         "aboutInfo": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
         "visionInfo": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation v"
     }, {
@@ -237,6 +835,32 @@
         "status": "Fund raise",
         "fundAverage": "50% complete",
         "amount": "$200,000/$400,000",
+        "teamInfo": [
+            {
+                "id": "m1",
+                "name": "Edmund Kitan", 
+                "designation": "Founder",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m2", 
+                "name": "Olarenwaju Cesar", 
+                "designation": "Co-Founder",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m3", 
+                "name": "Uzo Amanda", 
+                "designation": "Head of Growth",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m4", 
+                "name": "Donald Duke", 
+                "designation": "Head of Product",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            }
+        ],
         "aboutInfo": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
         "visionInfo": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation v"
     }, {
@@ -247,6 +871,32 @@
         "status": "Fund raise",
         "fundAverage": "50% complete",
         "amount": "$200,000/$400,000",
+        "teamInfo": [
+            {
+                "id": "m1",
+                "name": "Edmund Kitan", 
+                "designation": "Founder",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m2", 
+                "name": "Olarenwaju Cesar", 
+                "designation": "Co-Founder",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m3", 
+                "name": "Uzo Amanda", 
+                "designation": "Head of Growth",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            },
+            {
+                "id": "m4", 
+                "name": "Donald Duke", 
+                "designation": "Head of Product",
+                "image": "https://i.postimg.cc/MG34JBDZ/avatar.png"
+            }
+        ],
         "aboutInfo": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
         "visionInfo": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation v"
     }

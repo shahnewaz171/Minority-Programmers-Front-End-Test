@@ -1,11 +1,18 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import logo from '../../../images/mangoswap-stack-with-corwn.png';
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
+import RelatedStartupsData from '../../../dummyData/startupsCompaniesData.json';
 import './RelatedStartups.css';
 
 const RelatedStartups = () => {
+    const [relatedStartups, setRelatedStartups] = useState([]);
+
+    useEffect(() => {
+        setRelatedStartups(RelatedStartupsData);
+    }, [])
+    
     const settings = {
         dots: false,
         infinite: true,
@@ -36,96 +43,24 @@ const RelatedStartups = () => {
             </div>
             <div className="row related-startup">
                 <Slider {...settings}>
-                    <div className="">
-                        <div className="startup-items px-3 mb-4 mx-2">
+                    {relatedStartups && relatedStartups.map(data => (
+                        <div key={data.id} className="startup-items px-3 mb-4 mx-2">
                             <div className="d-flex pb-3">
                                 <div className="mangoswap-logo">
-                                    <img src={logo} className="img-fluid" alt="mangoswapLogo" />
+                                    <img src={data.logo} className="img-fluid" alt="mangoswapLogo" />
                                 </div>
-                                <h4 className="ms-3 mt-3">Mongoswap</h4>
+                                <h4 className="ms-3 mt-3">{data.name}</h4>
                             </div>
                             <div className="d-flex justify-content-between mb-1">
-                                <h6>Fund raise</h6>
-                                <span>50% Complete</span>
+                                <h6>{data.status}</h6>
+                                <span>{data.fundAverage}</span>
                             </div>
-                            <h5>$200,000/$400,000</h5>
+                            <h5>{data.amount}</h5>
                             <div className="progress mt-3 mb-3">
                                 <div className="progress-bar w-50" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
                         </div>
-                    </div>
-                    <div className="">
-                        <div className="startup-items px-3 mb-4 mx-2">
-                            <div className="d-flex pb-3">
-                                <div className="mangoswap-logo">
-                                    <img src={logo} className="img-fluid" alt="mangoswapLogo" />
-                                </div>
-                                <h4 className="ms-3 mt-3">Mongoswap</h4>
-                            </div>
-                            <div className="d-flex justify-content-between mb-1">
-                                <h6>Fund raise</h6>
-                                <span>50% Complete</span>
-                            </div>
-                            <h5>$200,000/$400,000</h5>
-                            <div className="progress mt-3 mb-3">
-                                <div className="progress-bar w-50" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="">
-                        <div className="startup-items px-3 mb-4 mx-2">
-                            <div className="d-flex pb-3">
-                                <div className="mangoswap-logo">
-                                    <img src={logo} className="img-fluid" alt="mangoswapLogo" />
-                                </div>
-                                <h4 className="ms-3 mt-3">Mongoswap</h4>
-                            </div>
-                            <div className="d-flex justify-content-between mb-1">
-                                <h6>Fund raise</h6>
-                                <span>50% Complete</span>
-                            </div>
-                            <h5>$200,000/$400,000</h5>
-                            <div className="progress mt-3 mb-3">
-                                <div className="progress-bar w-50" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="">
-                        <div className="startup-items px-3 mb-4 mx-2">
-                            <div className="d-flex pb-3">
-                                <div className="mangoswap-logo">
-                                    <img src={logo} className="img-fluid" alt="mangoswapLogo" />
-                                </div>
-                                <h4 className="ms-3 mt-3">Mongoswap</h4>
-                            </div>
-                            <div className="d-flex justify-content-between mb-1">
-                                <h6>Fund raise</h6>
-                                <span>50% Complete</span>
-                            </div>
-                            <h5>$200,000/$400,000</h5>
-                            <div className="progress mt-3 mb-3">
-                                <div className="progress-bar w-50" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="">
-                        <div className="startup-items px-3 mb-4 mx-2">
-                            <div className="d-flex pb-3">
-                                <div className="mangoswap-logo">
-                                    <img src={logo} className="img-fluid" alt="mangoswapLogo" />
-                                </div>
-                                <h4 className="ms-3 mt-3">Mongoswap</h4>
-                            </div>
-                            <div className="d-flex justify-content-between mb-1">
-                                <h6>Fund raise</h6>
-                                <span>50% Complete</span>
-                            </div>
-                            <h5>$200,000/$400,000</h5>
-                            <div className="progress mt-3 mb-3">
-                                <div className="progress-bar w-50" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
-                            </div>
-                        </div>
-                    </div>
+                    ))}
                 </Slider>
             </div>
         </div>
