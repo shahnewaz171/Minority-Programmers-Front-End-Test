@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom';
 const UpcomingStartupsList = ({startupsCompany}) => {
     const {name, logo, description, status, fundAverage, amount, id} = startupsCompany;
 
+    
     return (
         <div className="col-lg-3 col-md-6 px-0">
             <div className="featured-item">

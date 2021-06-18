@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from 'react';
-import logo from '../../../images/mangoswap-stack-with-corwn.png';
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
@@ -18,7 +17,7 @@ const RelatedStartups = () => {
         infinite: true,
         speed: 1000,
         slidesToShow: 3,
-        autoplay:true,
+        // autoplay:true,
         slidesToScroll: 1,
         responsive: [
             {
@@ -44,7 +43,8 @@ const RelatedStartups = () => {
             <div className="row related-startup">
                 <Slider {...settings}>
                     {relatedStartups && relatedStartups.map(data => (
-                        <div key={data.id} className="startup-items px-3 mb-4 mx-2">
+                        <div key={data.id}>
+                            <div className="startup-items px-3 mb-4 mx-2">
                             <div className="d-flex pb-3">
                                 <div className="mangoswap-logo">
                                     <img src={data.logo} className="img-fluid" alt="mangoswapLogo" />
@@ -59,6 +59,7 @@ const RelatedStartups = () => {
                             <div className="progress mt-3 mb-3">
                                 <div className="progress-bar w-50" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
+                        </div>
                         </div>
                     ))}
                 </Slider>

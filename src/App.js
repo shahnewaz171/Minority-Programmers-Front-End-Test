@@ -21,6 +21,9 @@ function App() {
             <Navbar />
             <FundStartup />
           </Route>
+          <Route path="/startup/:startupID">
+            <Home />
+          </Route>
           <Route path="/learn">
             <LearnPage />
           </Route>
