@@ -4,18 +4,29 @@
     border-radius: 10px;
     cursor: pointer;
 }
-.startup-items span {
-    font-size: 9px;
-    font-weight: 500;
-    color: #000;
+.startup-items h4{
+    font-size: 17px;
+}
+.startup-items h5{
+    font-size: 15px;
 }
 .startup-items h6{
     font-size: 12px;
     color: #000;
 }
-.startup-items h5{
-    font-size: 15px;
+.startup-items span {
+    font-size: 9px;
+    font-weight: 500;
+    color: #000;
 }
-.startup-items h4{
-    font-size: 17px;
+.related-startup .slick-next:before,
+.related-startup .slick-prev:before{
+    color: #656565 !important;
 }
+
+@media (max-width: 767px){
+    .related-startup .slick-next {
+        right: -15px !important;
+    }
+}
+

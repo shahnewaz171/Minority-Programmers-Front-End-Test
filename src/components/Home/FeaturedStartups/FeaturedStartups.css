@@ -69,13 +69,14 @@
 }
 
 @media (max-width: 767px){
-    .slick-prev:before, .slick-next:before {
+    .featuredSection .slick-prev:before, 
+    .featuredSection .slick-next:before {
         margin-left: 18px !important;
     }
     .featured-item {
         padding: 10px 31px !important;
     }
-    .slick-next {
+    .featuredSection .slick-next {
         right: 22px !important;
     }
     .large-device-Featured{

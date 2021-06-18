@@ -23,7 +23,7 @@ const Navbar = () => {
         <>
             <nav className={navbarAnimation ? "sticky-md-top navbar navbar-expand-lg navbar-light bg-white nav-style" : "navbar navbar-expand-lg navbar-light bg-white"}>
                 <div className="container">
-                    <Link to="#" className="navbar-brand nav-logo">
+                    <Link to="/" className="navbar-brand nav-logo">
                         <img src={Logo} className="img-fluid" alt="logo" />
                     </Link>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
