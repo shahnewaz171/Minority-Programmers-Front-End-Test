@@ -10,6 +10,7 @@ import weeklyActivityData from '../../../dummyData/courseWeeksData.json';
 import './ActivityDetails.css';
 import demoVideo from '../../../images/video.mp4';
 import VideoPlayer from 'react-video-js-player';
+import userImage from '../../../images/user-logo.png';
  
 
 const ActivityDetails = () => {
@@ -46,7 +47,7 @@ const ActivityDetails = () => {
                                 <Link onClick={() => history.goBack()} to="#">
                                 <   p><FontAwesomeIcon icon={faArrowLeft} /></p>
                                 </Link>
-                                <Link to="#">
+                                <Link to="#" data-bs-toggle="modal" data-bs-target="#exampleModal">
                                     <p><FontAwesomeIcon icon={faArrowRight} /></p>
                                 </Link>
                             </div>
@@ -74,6 +75,30 @@ const ActivityDetails = () => {
                                     </div>
                                 </div>
                             </div> 
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="d-flex flex-column justify-content-center align-items-center">
+                                <h5 class="mt-4" id="exampleModalLabel">Activity Completed</h5>
+                                <div className="user-img2 mt-3">
+                                    <img src={userImage} className="img-fluid" alt="user_image" />
+                                </div>
+                                <p className="mt-3 mb-4 pb-1">
+                                    <span>{activity.completionRate}% </span>
+                                    <span className="ms-1">{activity.status}</span>
+                                </p>
+                                <h6>You just completed</h6>
+                                <h5>{activity.activityName}</h5>
+                                <button className="btn px-4 py-3 banner-btn mt-4 fw-bold mb-3">
+                                    Go to Next Lesson
+                                </button>
+                                <p data-bs-dismiss="modal" aria-label="Close" style={{cursor: "pointer"}}>Cancel</p>
+                            </div>
                         </div>
                     </div>
                 </div>
