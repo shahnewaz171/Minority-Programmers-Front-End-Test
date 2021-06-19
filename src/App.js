@@ -6,6 +6,7 @@ import LearnPage from './components/LearnPage/LearnPage';
 import Navbar from './components/shared/Navbar/Navbar';
 import Course from './components/Dashboard/Course/Course';
 import WeeklyActivities from './components/Dashboard/WeeklyActivities/WeeklyActivities';
+import ActivityDetails from './components/Dashboard/ActivityDetails/ActivityDetails';
 
 function App() {
   return (
@@ -27,6 +28,9 @@ function App() {
           </Route>
           <Route path="/week/:weekID">
             <WeeklyActivities />
+          </Route>
+          <Route path="/activity">
+            <ActivityDetails/>
           </Route>
           <Route path="/learn">
             <LearnPage />

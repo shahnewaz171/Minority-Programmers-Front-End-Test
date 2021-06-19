@@ -54,12 +54,12 @@ const WeeklyActivities = () => {
                                 <Link onClick={() => history.goBack()} to="#">
                                 <   p><FontAwesomeIcon icon={faArrowLeft} /></p>
                                 </Link>
-                                <Link onClick={() => history.push('/learn')} to="#">
+                                <Link onClick={() => history.goForward()} to="#">
                                     <p><FontAwesomeIcon icon={faArrowRight} /></p>
                                 </Link>
                             </div>
                             {weeklyActivity && weeklyActivity.map(activity => (
-                                <Link to="#" key={activity.id} className="text-decoration-none">
+                                <Link to={`/activity/${activity.id}`} key={activity.id} className="text-decoration-none">
                                     <div className="px-md-5 mx-md-5">
                                         <div className="course-weeks px-3 mb-4 mx-2">
                                             <div className="row">
