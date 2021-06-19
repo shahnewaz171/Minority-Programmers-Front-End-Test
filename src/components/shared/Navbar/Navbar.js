@@ -21,7 +21,7 @@ const Navbar = () => {
 
     return (
         <>
-            <nav className={navbarAnimation ? "sticky-md-top navbar navbar-expand-lg navbar-light bg-white nav-style" : "navbar navbar-expand-lg navbar-light bg-white"}>
+            <nav className={navbarAnimation ? "sticky-md-top navbar navbar-expand-lg navbar-light nav-style nav-bg" : "navbar navbar-expand-lg navbar-light nav-bg"}>
                 <div className="container">
                     <Link to="/" className="navbar-brand nav-logo">
                         <img src={Logo} className="img-fluid" alt="logo" />

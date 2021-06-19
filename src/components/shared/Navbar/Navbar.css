@@ -20,14 +20,28 @@
 .nav-link-active::after{
     content: "";
     display: block;
-    height: 1px;
+    height: 2px;
     width: 100%;
-    background-color:#151371;
+    background-color:#f7d901;
 }
 .nav-style{
     box-shadow: #000 0 4px 4px -4px;
 }
-
+.nav-bg{
+    background: #5a595980 !important;
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+}
+.navbar-nav li a{
+    color: white !important;
+    transition: .2s;
+}
+.navbar-nav li a:hover{
+    color: rgb(206, 205, 205) !important;
+}
+.navbar-light .navbar-toggler{
+    border-color: #ffffff52 !important;
+}
 @media (max-width: 991px){
     .twitter-icon{
         padding-left: .5rem!important;
