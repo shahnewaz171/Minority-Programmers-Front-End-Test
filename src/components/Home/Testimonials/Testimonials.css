@@ -1,3 +1,11 @@
 .testimonials h6{
     color: #ffa61e;
 }
+.testimonials .slick-prev {
+    top: 36%;
+    left: -3%;
+}
+.testimonials .slick-next {
+    top: 36%;
+    
+}
