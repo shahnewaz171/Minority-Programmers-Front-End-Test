@@ -29,7 +29,7 @@ function App() {
           <Route path="/week/:weekID">
             <WeeklyActivities />
           </Route>
-          <Route path="/activity">
+          <Route path="/activity/:activityID">
             <ActivityDetails/>
           </Route>
           <Route path="/learn">

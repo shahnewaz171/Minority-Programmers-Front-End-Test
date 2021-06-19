@@ -54,7 +54,7 @@ const WeeklyActivities = () => {
                                 <Link onClick={() => history.goBack()} to="#">
                                 <   p><FontAwesomeIcon icon={faArrowLeft} /></p>
                                 </Link>
-                                <Link onClick={() => history.goForward()} to="#">
+                                <Link to="#">
                                     <p><FontAwesomeIcon icon={faArrowRight} /></p>
                                 </Link>
                             </div>
