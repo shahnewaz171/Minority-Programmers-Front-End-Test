@@ -32,24 +32,24 @@ const Navbar = () => {
                     <div className="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul className="navbar-nav me-auto mb-2 mb-lg-0">
                             <li className="nav-item">
-                                <NavLink to="#"  className="nav-link ps-lg-5 twitter-icon">
+                                <a href="https://twitter.com/minorityprogram"  className="nav-link ps-lg-5 twitter-icon" target="_blank" rel="noreferrer">
                                     <FontAwesomeIcon icon={faTwitter} className="nav-icons" />
-                                </NavLink>
+                                </a>
                             </li>
                             <li className="nav-item ps-2">
-                                <NavLink to="#" className="nav-link">
+                                <a href="https://www.facebook.com/MinorityProgrammers" className="nav-link" target="_blank" rel="noreferrer">
                                     <FontAwesomeIcon icon={faFacebookSquare} className="nav-icons" />
-                                </NavLink>
+                                </a>
                             </li>
                             <li className="nav-item ps-2">
-                                <NavLink to="#" className="nav-link">
+                                <a href="https://www.linkedin.com/company/minority-programmers/" className="nav-link" target="_blank" rel="noreferrer">
                                     <FontAwesomeIcon icon={faLinkedin} className="nav-icons" />
-                                </NavLink>
+                                </a>
                             </li>
                             <li className="nav-item ps-2">
-                                <NavLink to="#" className="nav-link">
+                                <a href="https://www.instagram.com/minorityprogrammers/" className="nav-link" target="_blank" rel="noreferrer">
                                     <FontAwesomeIcon icon={faInstagram} className="nav-icons" />
-                                </NavLink>
+                                </a>
                             </li>
                         </ul>
                         <ul className="navbar-nav ms-auto mb-2 mb-lg-0">

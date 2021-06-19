@@ -13,7 +13,7 @@ const FundStartupHeader = ({fundStartupInfo}) => {
             <div className="row align-items-center">
                 <div className="col-md-1 d-md-flex justify-content-center align-items-center startupHeader-item">
                     <div className="arrow-icon">
-                        <Link onClick={() => history.goBack()}>
+                        <Link onClick={() => history.goBack()} to="#">
                             <FontAwesomeIcon icon={faArrowLeft} style={{color: '#000'}} />
                         </Link>
                     </div>

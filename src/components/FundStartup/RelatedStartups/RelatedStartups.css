@@ -23,6 +23,14 @@
 .related-startup .slick-prev:before{
     color: #656565 !important;
 }
+.related-startup .slick-prev {
+    left: 85%;
+    top: -22%;
+}
+.related-startup .slick-next {
+    right: 4%;
+    top: -21.6%;
+}
 
 @media (max-width: 767px){
     .related-startup .slick-next {

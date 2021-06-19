@@ -80,11 +80,11 @@ const ActivityDetails = () => {
                 </div>
 
 
-                <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                    <div class="modal-dialog">
-                        <div class="modal-content">
-                            <div class="d-flex flex-column justify-content-center align-items-center">
-                                <h5 class="mt-4" id="exampleModalLabel">Activity Completed</h5>
+                <div className="modal fade" id="exampleModal" tabIndex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div className="modal-dialog">
+                        <div className="modal-content">
+                            <div className="d-flex flex-column justify-content-center align-items-center">
+                                <h5 className="mt-4" id="exampleModalLabel">Activity Completed</h5>
                                 <div className="user-img2 mt-3">
                                     <img src={userImage} className="img-fluid" alt="user_image" />
                                 </div>

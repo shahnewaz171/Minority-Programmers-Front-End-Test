@@ -68,4 +68,5 @@ const RelatedStartups = () => {
     );
 };
 
+
 export default RelatedStartups;

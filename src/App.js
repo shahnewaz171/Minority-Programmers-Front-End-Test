@@ -7,6 +7,7 @@ import Navbar from './components/shared/Navbar/Navbar';
 import Course from './components/Dashboard/Course/Course';
 import WeeklyActivities from './components/Dashboard/WeeklyActivities/WeeklyActivities';
 import ActivityDetails from './components/Dashboard/ActivityDetails/ActivityDetails';
+import ScrollToTop from './components/shared/ScrollToTop/ScrollToTop';
 
 function App() {
   return (
@@ -15,25 +16,32 @@ function App() {
         <Switch>
           <Route exact path="/">
               <Home />
+              <ScrollToTop />
           </Route>
           <Route path="/startup/:startupID">
             <Navbar />
             <FundStartup />
+            <ScrollToTop />
           </Route>
           <Route path="/startup/:startupID">
             <Home />
+            <ScrollToTop />
           </Route>
           <Route path="/course/:courseID">
             <Course />
+            <ScrollToTop />
           </Route>
           <Route path="/week/:weekID">
             <WeeklyActivities />
+            <ScrollToTop />
           </Route>
           <Route path="/activity/:activityID">
             <ActivityDetails/>
+            <ScrollToTop />
           </Route>
           <Route path="/learn">
             <LearnPage />
+            <ScrollToTop />
           </Route>
         </Switch>
       </Router>
