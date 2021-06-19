@@ -14,7 +14,7 @@ const HeaderMain = () => {
     return (
         <div>
             <div className="container">
-                <main className="d-md-flex align-items-center mt-5">
+                <main className="d-md-flex align-items-center mt-5" style={{overflowX: 'hidden'}}>
                     <div className="col-12 col-md-6" data-aos="fade-right">
                         <h1 className="mb-4 text-white">Invest in the next billion dollar company today</h1>
                         <p className="text-white">Find a featured startups or upcoming startups</p>

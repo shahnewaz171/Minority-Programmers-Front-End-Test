@@ -2,15 +2,9 @@ import React, { useEffect } from 'react';
 import educationImg from '../../../images/home/education.png';
 import careerImg from '../../../images/home/career.png';
 import productImg from '../../../images/home/product.png';
-import AOS from 'aos';
-import 'aos/dist/aos.css';
 import './Services.css';
 
 const Services = () => {
-    useEffect(() => {
-        AOS.init({ duration: 2000})
-    }, [])
-
     return (
         <div className="services">
             <div className="container">
@@ -19,7 +13,7 @@ const Services = () => {
                     <h1 className="mt-3">Services We Provide</h1>
                 </div>
                 <div className="row mt-5">
-                    <div className="col-md-4" data-aos="fade-right">
+                    <div className="col-md-4">
                         <div className="mb-md-5 pb-4">
                             <div className="courses-items px-3 mb-4 mx-2">
                                 <div className="services-img mb-4 pt-4">
@@ -30,7 +24,7 @@ const Services = () => {
                             </div>
                         </div>
                     </div>
-                    <div className="col-md-4" data-aos="fade-up">
+                    <div className="col-md-4">
                         <div className="mb-md-5 pb-4">
                             <div className="courses-items px-3 mb-4 mx-2">
                                 <div className="services-img mb-4 pt-4">
@@ -41,7 +35,7 @@ const Services = () => {
                             </div>
                         </div>
                     </div>
-                    <div className="col-md-4" data-aos="fade-left">
+                    <div className="col-md-4">
                         <div className="mb-md-5 pb-4">
                             <div className="courses-items px-3 mb-4 mx-2">
                                 <div className="services-img mb-4 pt-4">
