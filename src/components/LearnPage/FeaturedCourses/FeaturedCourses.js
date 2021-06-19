@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import settings from '../../Home/FeaturedStartups/settings';
+import settings from '../../IncubatorPage/FeaturedStartups/settings';
 import featuredCoursesData from '../../../dummyData/featuredCourses.json';
 import { Link } from 'react-router-dom';
 import './FeaturedCourses.css';

@@ -1,15 +1,19 @@
 import React from 'react';
+import Footer from '../shared/Footer/Footer';
 import Navbar from '../shared/Navbar/Navbar';
-import AllStartups from './AllStartups/AllStartups';
-import HeaderBanner from './HeaderBanner/HeaderBanner';
+import HeaderMain from './HeaderMain/HeaderMain';
+import Services from './Services/Services';
+import Testimonials from './Testimonials/Testimonials';
 
 const Home = () => {
     return (
-        <>
+        <div>
             <Navbar />
-            <HeaderBanner />
-            <AllStartups />
-        </>
+            <HeaderMain />
+            <Services />
+            <Testimonials />
+            <Footer />
+        </div>
     );
 };
 

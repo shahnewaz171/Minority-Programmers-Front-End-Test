@@ -4,7 +4,7 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import CoursesData from '../../../dummyData/myCoursesData.json';
 import './MyCourses.css';
-import settings from '../../Home/FeaturedStartups/settings';
+import settings from '../../IncubatorPage/FeaturedStartups/settings';
 import { Link } from 'react-router-dom';
 
 const MyCourses = () => {
