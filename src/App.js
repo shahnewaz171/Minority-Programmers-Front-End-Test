@@ -4,7 +4,8 @@ import Home from "./components/Home/Home";
 import FundStartup from "./components/FundStartup/FundStartup";
 import LearnPage from './components/LearnPage/LearnPage';
 import Navbar from './components/shared/Navbar/Navbar';
-import Dashboard from './components/Dashboard/Dashboard';
+import Course from './components/Dashboard/Course/Course';
+import WeeklyActivities from './components/Dashboard/WeeklyActivities/WeeklyActivities';
 
 function App() {
   return (
@@ -22,7 +23,10 @@ function App() {
             <Home />
           </Route>
           <Route path="/course/:courseID">
-            <Dashboard />
+            <Course />
+          </Route>
+          <Route path="/week/:weekID">
+            <WeeklyActivities />
           </Route>
           <Route path="/learn">
             <LearnPage />

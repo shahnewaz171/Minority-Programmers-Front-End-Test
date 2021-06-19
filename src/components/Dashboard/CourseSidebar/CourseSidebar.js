@@ -10,7 +10,7 @@ const CourseSidebar = () => {
     return (
         <div className="course-sidebar pt-5">
             <div className="ms-md-4 back-course mb-3">
-                <Link to="#" onClick={() => history.goBack()}>
+                <Link to="#" onClick={() => history.push('/learn')}>
                     <FontAwesomeIcon icon={faChevronLeft} /> <span className="ms-2">Courses</span>
                 </Link>
             </div>

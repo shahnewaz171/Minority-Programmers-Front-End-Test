@@ -1,8 +1,8 @@
 import React, { useEffect, useState }  from 'react';
 import { Link, NavLink } from 'react-router-dom';
 import courseWeeksData from '../../../dummyData/courseWeeksData.json';
-import './CourseWeeks.css';
 import CourseWeeksList from './CourseWeeksList';
+import './CourseWeeks.css';
 
 const CourseDetails = () => {
     const [weeks, setWeeks] = useState([]);
@@ -10,7 +10,6 @@ const CourseDetails = () => {
     useEffect(() => {
         setWeeks(courseWeeksData);
     }, [])
-    console.log(weeks);
 
     return (
         <div className="course-details">
@@ -37,6 +36,7 @@ const CourseDetails = () => {
             {
                 weeks.map(week => <CourseWeeksList courseWeek={week} key={week.id}></CourseWeeksList>)
             }
+            
         </div>
     );
 };

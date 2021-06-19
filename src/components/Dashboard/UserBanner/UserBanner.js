@@ -15,7 +15,7 @@ const UserBanner = () => {
                 <div className="col-12 col-md-5 mt-3">
                     <div className="user-info">
                         <h1>Welcome back, <br /> Shot</h1>
-                        <p className="text-white mt-3">75% Completed</p>
+                        <p className="text-white mt-3">100% Completed</p>
                     </div>
                     <div className="ms-5 mt-5">
                         <button className="btn btn-blue px-5">Resume</button>

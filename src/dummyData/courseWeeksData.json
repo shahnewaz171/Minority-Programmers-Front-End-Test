@@ -1,44 +1,179 @@
 [
     {
         "id": 1,
-        "weekName": "Week 1 -  Fundamentals of Cryptocurrency",
+        "name": "Fundamentals of Cryptocurrency",
+        "week": "Week 1",
         "completionAverage": "100%",
-        "completionStatus": "Completed" 
+        "completionStatus": "Completed",
+        "completionRate": "10/10",
+        "activity": [
+            {
+                "id": 1,
+                "activityName": "Activity 1 - Join Clickup",
+                "image": "https://i.postimg.cc/W1Ww7m57/Join-Clickup.png",
+                "status": "complete"
+            }, {
+                "id": 2,
+                "activityName": "Activity 2 - Join Discord",
+                "image": "https://i.postimg.cc/pyNXBLcR/Join-Discord.png",
+                "status": "complete"
+            }, {
+                "id": 3,
+                "activityName": "Activity 3 - Create Avatar",
+                "image": "https://i.postimg.cc/Zqt1JShg/Create-Avatar.png",
+                "status": "complete"
+            }, {
+                "id": 4,
+                "activityName": "Activity 4 - Join Clickup",
+                "image": "https://i.postimg.cc/W1Ww7m57/Join-Clickup.png",
+                "status": "complete"
+            }, {
+                "id": 5,
+                "activityName": "Activity 5 - Join Discord",
+                "image": "https://i.postimg.cc/pyNXBLcR/Join-Discord.png",
+                "status": "complete"
+            }
+        ] 
     }, 
     {
         "id": 2,
-        "weekName": "Week 2 -  Fundamentals of Cryptocurrency",
+        "name": "Fundamentals of Cryptocurrency",
+        "week": "Week 2",
         "completionAverage": "100%",
-        "completionStatus": "Completed" 
+        "completionStatus": "Completed",
+        "completionRate": "10/10",
+        "activity": [
+            {
+                "id": 1,
+                "activityName": "Activity 1 - Join Clickup",
+                "image": "https://i.postimg.cc/W1Ww7m57/Join-Clickup.png",
+                "status": "complete"
+            }, {
+                "id": 2,
+                "activityName": "Activity 2 - Join Discord",
+                "image": "https://i.postimg.cc/pyNXBLcR/Join-Discord.png",
+                "status": "complete"
+            }, {
+                "id": 3,
+                "activityName": "Activity 3 - Create Avatar",
+                "image": "https://i.postimg.cc/Zqt1JShg/Create-Avatar.png",
+                "status": "complete"
+            }, {
+                "id": 4,
+                "activityName": "Activity 4 - Join Clickup",
+                "image": "https://i.postimg.cc/W1Ww7m57/Join-Clickup.png",
+                "status": "complete"
+            }, {
+                "id": 5,
+                "activityName": "Activity 5 - Join Discord",
+                "image": "https://i.postimg.cc/pyNXBLcR/Join-Discord.png",
+                "status": "complete"
+            }
+        ] 
     }, {
         "id": 3,
-        "weekName": "Week 3 -  Fundamentals of Cryptocurrency",
+        "name": "Fundamentals of Cryptocurrency",
+        "week": "Week 3",
         "completionAverage": "100%",
-        "completionStatus": "Completed" 
+        "completionStatus": "Completed",
+        "completionRate": "10/10",
+        "activity": [
+            {
+                "id": 1,
+                "activityName": "Activity 1 - Join Clickup",
+                "image": "https://i.postimg.cc/W1Ww7m57/Join-Clickup.png",
+                "status": "complete"
+            }, {
+                "id": 2,
+                "activityName": "Activity 2 - Join Discord",
+                "image": "https://i.postimg.cc/pyNXBLcR/Join-Discord.png",
+                "status": "complete"
+            }, {
+                "id": 3,
+                "activityName": "Activity 3 - Create Avatar",
+                "image": "https://i.postimg.cc/Zqt1JShg/Create-Avatar.png",
+                "status": "complete"
+            }, {
+                "id": 4,
+                "activityName": "Activity 4 - Join Clickup",
+                "image": "https://i.postimg.cc/W1Ww7m57/Join-Clickup.png",
+                "status": "complete"
+            }, {
+                "id": 5,
+                "activityName": "Activity 5 - Join Discord",
+                "image": "https://i.postimg.cc/pyNXBLcR/Join-Discord.png",
+                "status": "complete"
+            }
+        ] 
     }, {
         "id": 4,
-        "weekName": "Week 4 -  Fundamentals of Cryptocurrency",
+        "name": "Fundamentals of Cryptocurrency",
+        "week": "Week 4",
         "completionAverage": "100%",
-        "completionStatus": "Completed" 
+        "completionStatus": "Completed",
+        "completionRate": "10/10",
+        "activity": [
+            {
+                "id": 1,
+                "activityName": "Activity 1 - Join Clickup",
+                "image": "https://i.postimg.cc/W1Ww7m57/Join-Clickup.png",
+                "status": "complete"
+            }, {
+                "id": 2,
+                "activityName": "Activity 2 - Join Discord",
+                "image": "https://i.postimg.cc/pyNXBLcR/Join-Discord.png",
+                "status": "complete"
+            }, {
+                "id": 3,
+                "activityName": "Activity 3 - Create Avatar",
+                "image": "https://i.postimg.cc/Zqt1JShg/Create-Avatar.png",
+                "status": "complete"
+            }, {
+                "id": 4,
+                "activityName": "Activity 4 - Join Clickup",
+                "image": "https://i.postimg.cc/W1Ww7m57/Join-Clickup.png",
+                "status": "complete"
+            }, {
+                "id": 5,
+                "activityName": "Activity 5 - Join Discord",
+                "image": "https://i.postimg.cc/pyNXBLcR/Join-Discord.png",
+                "status": "complete"
+            }
+        ] 
     }, {
         "id": 5,
-        "weekName": "Week 5 -  Fundamentals of Cryptocurrency",
+        "name": "Fundamentals of Cryptocurrency",
+        "week": "Week 5",
         "completionAverage": "100%",
-        "completionStatus": "Completed" 
-    }, {
-        "id": 6,
-        "weekName": "Week 6 -  Fundamentals of Cryptocurrency",
-        "completionAverage": "100%",
-        "completionStatus": "Completed" 
-    }, {
-        "id": 7,
-        "weekName": "Week 7 -  Fundamentals of Cryptocurrency",
-        "completionAverage": "100%",
-        "completionStatus": "Completed" 
-    }, {
-        "id": 8,
-        "weekName": "Week 8 -  Fundamentals of Cryptocurrency",
-        "completionAverage": "100%",
-        "completionStatus": "Completed" 
+        "completionStatus": "Completed",
+        "completionRate": "10/10",
+        "activity": [
+            {
+                "id": 1,
+                "activityName": "Activity 1 - Join Clickup",
+                "image": "https://i.postimg.cc/W1Ww7m57/Join-Clickup.png",
+                "status": "complete"
+            }, {
+                "id": 2,
+                "activityName": "Activity 2 - Join Discord",
+                "image": "https://i.postimg.cc/pyNXBLcR/Join-Discord.png",
+                "status": "complete"
+            }, {
+                "id": 3,
+                "activityName": "Activity 3 - Create Avatar",
+                "image": "https://i.postimg.cc/Zqt1JShg/Create-Avatar.png",
+                "status": "complete"
+            }, {
+                "id": 4,
+                "activityName": "Activity 4 - Join Clickup",
+                "image": "https://i.postimg.cc/W1Ww7m57/Join-Clickup.png",
+                "status": "complete"
+            }, {
+                "id": 5,
+                "activityName": "Activity 5 - Join Discord",
+                "image": "https://i.postimg.cc/pyNXBLcR/Join-Discord.png",
+                "status": "complete"
+            }
+        ] 
     }
 ]
