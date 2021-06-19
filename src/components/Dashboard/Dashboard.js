@@ -1,11 +1,12 @@
 import React from 'react';
+import Courses from '../Dashboard/Course/Course';
 import Navbar from '../shared/Navbar/Navbar';
 
 const Dashboard = () => {
     return (
         <>
             <Navbar />
-            <h1>This is Dashboard</h1>
+            <Courses />
         </>
     );
 };

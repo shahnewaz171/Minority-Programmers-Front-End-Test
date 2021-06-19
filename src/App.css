@@ -5,8 +5,21 @@
     padding: 0;
     box-sizing: border-box;
 }
-
 body{
     font-family: 'Red Hat Display', sans-serif;
     background: linear-gradient(104.61deg, #FF00B8 2.65%, #FF655B 51.83%, #FFC700 100%);
+}
+::-webkit-scrollbar {
+    width: 10px;
+}
+::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+}
+   
+::-webkit-scrollbar-thumb {
+    background: #b8b8b8; 
+}
+  
+::-webkit-scrollbar-thumb:hover {
+    background: #a1a1a1;; 
 }

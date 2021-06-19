@@ -2,17 +2,18 @@ import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faArrowLeft } from '@fortawesome/free-solid-svg-icons';
 import './FundStartupHeader.css';
-import { Link } from 'react-router-dom';
+import { Link, useHistory } from 'react-router-dom';
 
 const FundStartupHeader = ({fundStartupInfo}) => {
     const {name, logo, status, fundAverage, amount} = fundStartupInfo;
+    const history = useHistory();
 
     return (
         <div className="mt-4 startup-header bg-white">
             <div className="row align-items-center">
                 <div className="col-md-1 d-md-flex justify-content-center align-items-center startupHeader-item">
                     <div className="arrow-icon">
-                        <Link to="/">
+                        <Link onClick={() => history.goBack()}>
                             <FontAwesomeIcon icon={faArrowLeft} style={{color: '#000'}} />
                         </Link>
                     </div>
