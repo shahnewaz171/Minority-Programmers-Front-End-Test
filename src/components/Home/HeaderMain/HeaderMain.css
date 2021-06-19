@@ -8,3 +8,9 @@
     background-image: linear-gradient(to right, #504e95 2.65%, #2f2d80 51.83%, #1c1a91 100%) !important;
     color: white;
 }
+
+@media (max-width: 767px){
+    .invest-img{
+        padding-top: 4rem;
+    }
+}

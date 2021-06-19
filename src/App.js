@@ -17,6 +17,7 @@ function App() {
         <Switch>
           <Route exact path="/">
             <Home />
+            <ScrollToTop />
           </Route>
           <Route path="/incubator">
             <IncubatorPage />
