@@ -41,7 +41,7 @@ const Footer = () => {
                                 </a>
                             </li>
                         </ul>
-                        <p className="text-white">&copy; Copyright 2021 by <span className="ms-1 fw-bold">Minority Programmers Association</span> </p>
+                        <p className="text-white">&copy; Copyright 2021 by <span className="ms-1 fw-bold">Minority Programmers</span> </p>
                     </div>
                 </div>
             </div>
